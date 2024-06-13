@@ -1,0 +1,14 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 📚 Kirby Tools Documentation
+    url: https://kirby.tools/docs
+    about: Check the documentation for usage of Kirby Tools
+  - name: 📚 Kirby SEO Audit Documentation
+    url: https://kirbyseo.com/docs
+    about: Check the documentation of Kirby SEO Audit
+  - name: 📚 Kirby Copilot Documentation
+    url: https://kirbycopilot.com/docs
+    about: Check the documentation of Kirby Copilot
+  - name: 💬 Discussions
+    url: https://github.com/kirby-tools/community/discussions
+    about: Use discussions if you have another issue, an idea for improvement or for asking questions.
